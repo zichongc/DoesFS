@@ -1,0 +1,10 @@
+torch~=1.13.0+cu116
+matplotlib~=3.7.2
+pillow~=10.0.0
+numpy~=1.24.4
+scipy~=1.10.1
+dlib~=19.22.99
+torchvision~=0.14.0+cu116
+tqdm~=4.65.0
+opencv-python~=4.1.2.30
+ninja
