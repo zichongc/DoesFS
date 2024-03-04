@@ -10,7 +10,7 @@ Shenzhen University
 </p>
 
 
-[[project page (coming soon)]]() [[paper (coming soon)]]() [[Supplementary (coming soon)]]()
+[[project page]](https://github.com/zichongc/DoesFS) [[paper]](https://arxiv.org/pdf/2403.00459.pdf) [[Supplementary]](https://drive.google.com/file/d/1lkQ_ZCLovFSYiPYLvUbvv1a7vdWblCvQ/view?usp=sharing)
 
 
 
